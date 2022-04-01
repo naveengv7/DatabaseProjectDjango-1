@@ -89,7 +89,7 @@ DATABASES = {
         'PASSWORD': 'N@rah2021',
 
         'HOST': 'localhost'
-
+        #changes
     }
 
 }
